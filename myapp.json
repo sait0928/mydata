@@ -1,16 +1,20 @@
 {
 	"collection": [
 		{
-			"title": "task1"
+			"title": "task1",
+			"check": true
 		},
 		{
-			"title": "task2"
+			"title": "task2",
+			"check": false
 		},
 		{
-			"title": "task3"
+			"title": "task3",
+			"check": true
 		},
 		{
-			"title": "task4"
+			"title": "task4",
+			"check": false
 		}
 	]
 }
